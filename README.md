@@ -25,7 +25,7 @@ Company logos in icons are copyright of their respective owners.
 </sub>
   ![CC][BY]  ![CC][NC]  [](![CC][NC-EU])
 
-[CC]: http://bit.ly/CC-ico-svg "CC"
+[CC]: http://bit.ly/CC-ico-svg|20px "CC"
 [BY]: http://bit.ly/BY-ico-svg "CC"
 [NC]: http://bit.ly/NC-ico-svg "CC"
 [NC-EU]: (http://bit.ly/NC-EU-ico-svg "CC"
