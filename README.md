@@ -16,7 +16,7 @@ P.S. If you have experience with best-practice optimisation and minification of 
 
 ## Licence
 
-The Simple Icons set and associated files are distributed by Dan Leech under the [LICENCE.md](https://github.com/ManuelGotzen/G4-Icons/LICENCE). Company logos and icons may be subject to trademark and copyright conditions. Always check before deploying other companies’ branding on your own website.
+The Simple Icons set and associated files are distributed by Dan Leech under the [LICENCE](LICENCE.md). Company logos and icons may be subject to trademark and copyright conditions. Always check before deploying other companies’ branding on your own website.
 
 Distributed by Manuel Gotzen under the CC BY licence. 
 Company logos in icons are copyright of their respective owners.
