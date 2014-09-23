@@ -2,7 +2,7 @@
 
 ![G4 Icons Preview](preview.png)
 
-A free set of PNG icons in eleven sizes, black and white, from 16px to 4096px, with an accompanying list of colour codes. See The icons and colours at [G4UI.org](http://G4UI.org).
+A free set of PNG icons in eleven sizes, black and white, from 16px to 4096px, with an accompanying list of colour codes. See The icons and colours at [G4UI.org](http://manuelgotzen.github.io/G4-libs).
 
 ## Feedback and Requests
 
@@ -16,4 +16,7 @@ P.S. If you have experience with best-practice optimisation and minification of 
 
 ## Licence
 
-The Simple Icons set and associated files are distributed by Dan Leech under the [Free Art Licence](http://artlibre.org/licence/lal/en). Company logos and icons may be subject to trademark and copyright conditions. Always check before deploying other companies’ branding on your own website.
+The Simple Icons set and associated files are distributed by Dan Leech under the [LICENCE.md](https://github.com/ManuelGotzen/G4-Icons/LICENCE). Company logos and icons may be subject to trademark and copyright conditions. Always check before deploying other companies’ branding on your own website.
+
+Distributed by Manuel Gotzen under the CC BY licence. 
+Company logos in icons are copyright of their respective owners.
