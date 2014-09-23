@@ -20,7 +20,7 @@ The Simple Icons set and associated files are distributed by Dan Leech under the
 
 =====
 <sub>
-Distributed by Manuel Gotzen under the [![CC][CC|20px] BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.
+Distributed by Manuel Gotzen under the [![CC][CC] BY-ND-NC 1.0](http://creativecommons.org/licenses/by-nc-nd/3.0/de/) licence.
 Company logos in icons are copyright of their respective owners.  
 </sub>
   ![CC][BY]  ![CC][NC]  [](![CC][NC-EU])
