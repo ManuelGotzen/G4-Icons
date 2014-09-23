@@ -30,3 +30,7 @@ Distributed by Manuel Gotzen under the [CC BY-ND-NC 1.0](http://creativecommons.
 [BY]: http://bit.ly/BY-ico-svg "CC"
 [NC]: http://bit.ly/NC-ico-svg "CC"
 [NC-EU]: (http://bit.ly/NC-EU-ico-svg "CC"
+
+[gitHub]: http://bit.ly/gitHub-musikdenker  "Organization"
+[gitHub]: http://bit.ly/gitHub-gee  "Owner"
+
